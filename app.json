@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Dobrota",
+    "version": "1.0.0",
+    "sdkVersion": "18.0.0",
+    "icon": "./src/icon.png",
+    "slug": "dobrota-app",
+    "ios": {
+      "bundleIdentifier": "com.fruitdev.dobrotaapp"
+    },
+    "android": {
+      "package": "com.fruitdev.dobrotaapp"
+    }
+  }
+}
